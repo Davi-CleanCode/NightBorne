@@ -1,21 +1,50 @@
-# NightBorne
+NightBorne 🕹️
 
-Este projeto está preparado para ser um jogo. Estrutura básica adicionada:
+Jogo 2D de plataforma criado como projeto pessoal, inspirado em desafios de ação e exploração dentro de uma masmorra sombria. 
+itch.io
 
-- `Assets/Scripts/` (scripts do jogo)
-- `Scenes/` (cenas do jogo)
-- `Prefabs/` (objetos reutilizáveis)
-- `Materials/` (materiais e texturas)
-- `Audio/` (sons e músicas)
-- `Documentation/` (documentação do projeto)
+🎯 Objetivo
 
-## Como começar
+Desenvolver um jogo em HTML5 e JavaScript
 
-1. Adicione suas cenas na pasta `Scenes`.
-2. Crie prefabs em `Prefabs`.
-3. Adicione materiais em `Materials`.
-4. Coloque arquivos de áudio em `Audio`.
-5. Documente decisões e ideias em `Documentation`.
+Implementar mecânicas de movimento e combate
+
+Praticar lógica de jogo e interações com o jogador
+
+🛠 Tecnologias
+
+HTML
+
+CSS
+
+JavaScript
+
+▶ Como jogar / executar
+
+Clone o repositório:
+
+git clone https://github.com/Davi-CleanCode/NightBorne.git
+
+
+Abra o arquivo index.html no navegador.
+
+🎮 Controles (exemplo)
+
+W / A / S / D — Movimento
+
+J — Atacar
+(ajuste se os controles forem diferentes) 
+itch.io
+
+🚀 Melhorias futuras
+
+Inimigos variados e IA simples
+
+Sistema de pontuação e vidas
+
+Animações e efeitos sonoros
+
+Fases ou níveis adicionais
 ========================================================================================================================
 
 
